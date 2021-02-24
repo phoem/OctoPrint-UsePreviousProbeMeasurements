@@ -1,6 +1,6 @@
 # OctoPrint-UsePreviousProbeMeasurements
 
-**TODO:** Describe what your plugin does.
+Plugin to replace G29 command with M421 so you can use the last bed probe instead of probing again.  Modifies gcode on the fly so you do not have to edit your gcode
 
 ## Setup
 
